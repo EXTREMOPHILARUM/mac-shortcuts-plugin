@@ -1,0 +1,15 @@
+# Mac Shortcuts Plugin - Python Dependencies
+
+# Optional: Rich formatting for better terminal output
+rich>=13.0.0
+
+# Optional: Interactive CLI menus
+questionary>=2.0.0
+
+# Standard library modules (no installation needed):
+# - plistlib
+# - json
+# - pathlib
+# - subprocess
+# - datetime
+# - uuid

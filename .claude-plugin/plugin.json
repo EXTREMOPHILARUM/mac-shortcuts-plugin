@@ -1,0 +1,9 @@
+{
+  "name": "mac-shortcuts-plugin",
+  "version": "1.0.0",
+  "description": "Comprehensive Mac Shortcuts management: CLI integration, .shortcut file parsing, and workflow builder",
+  "author": {
+    "name": "extremo",
+    "email": "me@saurabhn.com"
+  }
+}
